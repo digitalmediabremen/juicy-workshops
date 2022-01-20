@@ -1,5 +1,7 @@
 # Digital Media Juicy Workshops
 
+The Digital Media Studio kindly offers a sequence of 4 ~Juicy Workshops~ ministred by digital media master students:
+
 ## 05.02: How to juicy presentations, by Nilya Musaeva
 
 Have you ever thought about making your presentations not only using google slides and Roboto Mono font? Have you ever wondered which font would fit another one the best, how to make this and that glossy logo effect, how to keep audience’s attention throughout your project proposal? I, Nilya, have made more than 50 presentations for every occasion possible during my bachelors. And am still doing it. Come and let’s exchange our PWW (Presentation Wizards Wisdom). Don’t forget to make a little Pinterest/Are.na moodboard ;)
