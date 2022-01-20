@@ -1,6 +1,6 @@
 # Digital Media Juicy Workshops
 
-The Digital Media Studio kindly offers a sequence of 4 ~Juicy Workshops~ ministred by digital media master students:
+The Digital Media Studio kindly offers a sequence of 4 *Juicy Workshops* ministred by digital media master students:
 
 ## Workshops
 
