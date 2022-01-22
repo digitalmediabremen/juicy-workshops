@@ -8,7 +8,7 @@ The Digital Media Studio kindly offers a sequence of 4 *Juicy Workshops* ministr
 
 Have you ever thought about making your presentations not only using google slides and Roboto Mono font? Have you ever wondered which font would fit another one the best, how to make this and that glossy logo effect, how to keep audience’s attention throughout your project proposal? I, Nilya, have made more than 50 presentations for every occasion possible during my bachelors. And am still doing it. Come and let’s exchange our PWW (Presentation Wizards Wisdom). Don’t forget to make a little Pinterest/Are.na moodboard ;)
 
-### 12.02: Interactive installation with Unity 3d, by Antonio Ribeiro
+### 12.02: Interactive installations with Unity 3d, by Antonio Ribeiro
 
 In this workshop, we will go through the basics of Unity and use it to create an interactive installation project together. As a game engine Unity can be very powerful for media artists who want to develop complex and computationally intensive projects.
 
