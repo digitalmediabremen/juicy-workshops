@@ -1,4 +1,4 @@
-![](./poster.png)
+![](./poster.jpg)
 
 # Digital Media Juicy Workshops
 
