@@ -28,7 +28,7 @@ The participants will be guided on the basic principles of PWM control with Ardu
 
 - __Language__: English
 
-- __Where__: Room 3.10.020 @ HfK Bremen - Am Speicher XI
+- __Where__: Room 2.11.100 @ HfK Bremen - Am Speicher XI
 
 - __Time__: Starting 14:00h until around 18:00h.
 
