@@ -39,3 +39,5 @@ The participants will be guided on the basic principles of PWM control with Ardu
 - __Max Participants__: 15 per workshop.
 
 - __Inscription__: send email to at [studio-dm@hfk-bremen.de](studio-dm@hfk-bremen.de)
+
+- __Poster__: Lucy Savelyeva
