@@ -73,7 +73,7 @@ Contact for budget and general support: **Prof. Peter von Maydell** ([peter.vonm
 
 ---
 
-### Links
+### Previous forms for reference
 
 - [Proposals for Juicy Workshops 2024 supported by Digital Media Uni + HfK Bremen](https://forms.office.com/Pages/ResponsePage.aspx?id=72nnCfA49Eyp4hlMzNJHYUdBgION1GhJgHNRiWOAz-pUQkg4RldCTlc0MVBXOUlWSExVUUhOMlQ2VS4u)
 - [Digital Media Workshops 2022](https://forms.office.com/Pages/ResponsePage.aspx?id=72nnCfA49Eyp4hlMzNJHYeXNxqdY5w9BhVBAIS4p029UQkxVRVFDMUZYSjlXOFpKQkw5NTFMWlVXQi4u)
