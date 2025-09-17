@@ -1,43 +1,38 @@
-![](./DM_JUICY_WORKSHOPS_small.png)
+
+![](./2022/DM_JUICY_WORKSHOPS_small.png)
+
+*(poster by Liudmila Savelyeva)*
 
 # Digital Media Juicy Workshops
 
-The Digital Media Studio kindly offers a sequence of 4 *Juicy Workshops* ministred by digital media master students.
+A series of peer-to-peer, student-led workshops—by students for students—where Digital Media students from HfK and Uni share skills, experiment, and practice giving workshops.
 
-## Workshops
+---
 
-### 05.02: How to: juicy presentations, by Nilya Musaeva
+The Juicy Workshops usually take place in late November or December, with planning and the open call happening between September and October. This can shift if Hochschultage moves back to winter. Organizers create and circulate an open call for workshop proposals, select around three to five workshops, and choose the dates. We have tried both one- and two-day formats, usually on weekends so classes don’t clash.
 
-Have you ever thought about making your presentations not only using google slides and Roboto Mono font? Have you ever wondered which font would fit another one the best, how to make this and that glossy logo effect, how to keep audience’s attention throughout your project proposal? I, Nilya, have made more than 50 presentations for every occasion possible during my bachelors. And am still doing it. Come and let’s exchange our PWW (Presentation Wizards Wisdom). Don’t forget to make a little Pinterest/Are.na moodboard ;)
+The organizing team handles the call for proposals, communication with both HfK and Uni students, selection of workshops, and scheduling of rooms. They also coordinate payments and material costs. Students are paid for both organizing and workshop hours; the amount is modest and depends on the final budget. Support for equipment or additional material can be discussed with STUKO if needed. Knowledge and files—posters, program, budget—should be passed on to the next group of organizers.
 
-### 12.02: Interactive installations with Unity 3d, by Antonio Ribeiro
+---
 
-In this workshop, we will go through the basics of Unity and use it to create an interactive installation project together. As a game engine Unity can be very powerful for media artists who want to develop complex and computationally intensive projects.
+### Budget
 
-### 19.02: API & Databases in the Artistical Context using Node.js, by Alberto Harres
+GbA usually provides a total budget of about **€1,500–2,000**.
+Approximate split:
 
-In this workshop the participants will be guided through the creation of a simple project where data can be stored and retrived in an online database, with the goal of making possible collaborative practices for artistical projects. Beyond the practical, we will also hint on some theoretical notions in terms of archivism, memory and care.
+* around **€1,200** for student working hours
+* up to **€500** for materials (this can be lower or partly covered by STUKO)
 
-basic knowledge of programming preferred but not required.  
+Forms for payment and reimbursement:
 
-### 26.02: Pulse Width Modulation(PWM) and Multiplexing in LED, by Sangbong Lee
+* [Abrechnung für Dienstleistungen / Aufwandsentschädigungen](https://portal.hfk-bremen.de/startseite/docs/formulare/Allgemein/Abrechnung%20f%C3%BCr%20Dienstleistungen%20Aufwandsentsch%C3%A4digungen%20ab%2001.02.2025.pdf)
+* [Antrag auf Auslagenerstattung](https://portal.hfk-bremen.de/startseite/docs/formulare/Allgemein/Antrag%20auf%20Auslagenerstattung.pdf)
 
-The participants will be guided on the basic principles of PWM control with Arduino and TLC5940 chip; multiplex techniques for single color LED to expand PWM channel as well as how to read the datasheet for electronic components.
+All completed forms go to **Prof. Peter von Maydell**.
+Students need a **Steuernummer** (tax number) for payment, so facilitators without one should apply early.
 
-## Infos
+---
 
-- __Language__: English
+Workshops are usually limited to 12–15 participants. Registration can stay simple, for example by email to [studio-dm@hfk-bremen.de](mailto:studio-dm@hfk-bremen.de). Rotate the main organizers each year to keep it sustainable and make sure to archive everything for the next team.
 
-- __Where__: Room 2.11.100 @ HfK Bremen - Am Speicher XI
-
-- __Time__: Starting 14:00h until around 18:00h.
-
-- __Hybrid mode__: When possible, participants will be able to follow online on MS Teams.
-
-- __2G+__: for those in presence, either tested or boosted.
-
-- __Max Participants__: 15 per workshop.
-
-- __Inscription__: send email to at [studio-dm@hfk-bremen.de](studio-dm@hfk-bremen.de)
-
-- __Poster__: Lucy Savelyeva
+Contact for budget and general support: **Prof. Peter von Maydell** ([peter.vonmaydell@hfk-bremen.de](mailto:peter.vonmaydell@hfk-bremen.de)).
