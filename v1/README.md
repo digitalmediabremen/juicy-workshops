@@ -1,5 +1,7 @@
 ![](./DM_JUICY_WORKSHOPS_small.png)
 
+*(poster by Liudmila Savelyeva)*
+
 # Digital Media Juicy Workshops
 
 The Digital Media Studio kindly offers a sequence of 4 *Juicy Workshops* ministred by digital media master students.

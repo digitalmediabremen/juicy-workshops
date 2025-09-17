@@ -1,6 +1,8 @@
 
 ![](./image.png)
 
+*(poster by Fabian Mosele)* 
+
 # Digital Media Juicy Workshops 2023
 
 The **Digital Media Juicy Workshops 2023** offered a series of peer-to-peer sessions organized by students for students.  

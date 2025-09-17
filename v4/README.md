@@ -1,6 +1,8 @@
 
 ![](./image.png)
 
+*(poster by Ayşen Kocakabak)* 
+
 
 # Digital Media Juicy Workshops 2024
 
@@ -37,7 +39,7 @@ Location: **Room 2.11.100, Speicher XI, HfK Bremen**
 
 ---
 
-## Contact![alt text](image.png)
+## Contact
 
 For questions or further information:
 

@@ -1,6 +1,8 @@
 
 ![](./image.png)
 
+*(poster by Liudmila Savelyeva)*
+
 # Digital Media Juicy Workshops 2.0 (2022)
 
 The **Digital Media Juicy Workshops 2.0** offered a sequence of four **two-day** peer-to-peer workshops in November and December 2022, organized and led by Digital Media students.  
