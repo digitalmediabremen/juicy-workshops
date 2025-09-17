@@ -1,7 +1,7 @@
 
 ![](./v1/DM_JUICY_WORKSHOPS_small.png)
 
-*(poster by Liudmila Savelyeva)*
+*(original poster by Liudmila Savelyeva)*
 
 # Digital Media Juicy Workshops
 
