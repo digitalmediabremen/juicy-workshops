@@ -11,7 +11,17 @@ A series of peer-to-peer, student-led workshops—by students for students—whe
 
 The Juicy Workshops usually take place in late November or December, with planning and the open call happening between September and October. This can shift if Hochschultage moves back to winter. Organizers create and circulate an open call for workshop proposals, select around three to five workshops, and choose the dates. We have tried both one- and two-day formats, usually on weekends so classes don’t clash.
 
-The organizing team handles the call for proposals, communication with both HfK and Uni students, selection of workshops, and scheduling of rooms. They also coordinate payments and material costs. Students are paid for both organizing and workshop hours; the amount is modest and depends on the final budget. Support for equipment or additional material can be discussed with STUKO if needed. Knowledge and files—posters, program, budget—should be passed on to the next group of organizers.
+Tasks for the organizers: *yes its underpaid, but its fun :)*
+
+* [ ] Handle the call for proposals
+* [ ] Communicate with both HfK and Uni students
+* [ ] Select the workshops
+* [ ] Schedule rooms
+* [ ] Coordinate payments and material costs
+* [ ] Ensure students are paid for organizing and workshop hours (amount depends on final budget)
+* [ ] Discuss possible support for equipment or additional material with STUKO
+* [ ] Pass on knowledge of the juicy workshops to the next group of organizers for the coming year
+* [ ] Upload workshop materials to this GitHub repository
 
 ---
 
