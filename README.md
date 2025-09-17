@@ -1,5 +1,5 @@
 
-![](./2022/DM_JUICY_WORKSHOPS_small.png)
+![](./v1/DM_JUICY_WORKSHOPS_small.png)
 
 *(poster by Liudmila Savelyeva)*
 
