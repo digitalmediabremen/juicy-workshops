@@ -62,7 +62,7 @@ Students need a **Steuernummer** (tax number) for payment, so facilitators witho
 | **TouchDesigner Workshop**     |                      |                 |         |         |
 | • Lecture preparation time               | 16                  | 12              | 192     |         |
 | • Lecture time                            | 8                   | 12              | 96      | **288** |
-| **Grand Total**                          |                      |                 |         | **1,906.51** |
+| **Total**                          |                      |                 |         | **1,906.51** |
 
 
 ---
