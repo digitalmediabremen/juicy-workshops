@@ -16,7 +16,7 @@ Tasks for the organizers: *yes its underpaid, but its fun :)*
 * [ ] Handle the call for proposals
 * [ ] Communicate with both HfK and Uni students
 * [ ] Select the workshops
-* [ ] Schedule rooms
+* [ ] Book the rooms
 * [ ] Coordinate payments and material costs
 * [ ] Ensure students are paid for organizing and workshop hours (amount depends on final budget)
 * [ ] Discuss possible support for equipment or additional material with STUKO
@@ -66,8 +66,6 @@ Students need a **Steuernummer** (tax number) for payment, so facilitators witho
 
 
 ---
-
-Workshops are usually limited to 12–15 participants. Registration can stay simple, for example by email to [studio-dm@hfk-bremen.de](mailto:studio-dm@hfk-bremen.de). Rotate the main organizers each year to keep it sustainable and make sure to archive everything for the next team.
 
 Contact for budget and general support: **Prof. Peter von Maydell** ([peter.vonmaydell@hfk-bremen.de](mailto:peter.vonmaydell@hfk-bremen.de)).
 
